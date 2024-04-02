@@ -1,0 +1,13 @@
+.main{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#carouselExample{
+    height: 60%;
+    width: 50%;
+}
+
